@@ -17,6 +17,8 @@
 		3A580D922A1538DD00F9F246 /* ImageSliderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A580D912A1538DD00F9F246 /* ImageSliderViewController.swift */; };
 		3A580D942A15392900F9F246 /* ImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A580D932A15392900F9F246 /* ImageCell.swift */; };
 		3A580D962A153A5C00F9F246 /* InstagramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A580D952A153A5C00F9F246 /* InstagramViewController.swift */; };
+		3ACCAAC42A153EAB0040D67E /* ImageSliderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ACCAAC32A153EAB0040D67E /* ImageSliderTableViewCell.swift */; };
+		3ACCAAC62A153EEF0040D67E /* ViewNController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ACCAAC52A153EEF0040D67E /* ViewNController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		3A580D912A1538DD00F9F246 /* ImageSliderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSliderViewController.swift; sourceTree = "<group>"; };
 		3A580D932A15392900F9F246 /* ImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCell.swift; sourceTree = "<group>"; };
 		3A580D952A153A5C00F9F246 /* InstagramViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramViewController.swift; sourceTree = "<group>"; };
+		3ACCAAC32A153EAB0040D67E /* ImageSliderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSliderTableViewCell.swift; sourceTree = "<group>"; };
+		3ACCAAC52A153EEF0040D67E /* ViewNController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewNController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +73,9 @@
 				3A580D7F2A15381B00F9F246 /* SceneDelegate.swift */,
 				3A580D912A1538DD00F9F246 /* ImageSliderViewController.swift */,
 				3A580D932A15392900F9F246 /* ImageCell.swift */,
+				3ACCAAC32A153EAB0040D67E /* ImageSliderTableViewCell.swift */,
 				3A580D952A153A5C00F9F246 /* InstagramViewController.swift */,
+				3ACCAAC52A153EEF0040D67E /* ViewNController.swift */,
 				3A580D812A15381B00F9F246 /* ViewController.swift */,
 				3A580D832A15381B00F9F246 /* Main.storyboard */,
 				3A580D862A15381C00F9F246 /* Assets.xcassets */,
@@ -152,6 +158,8 @@
 			files = (
 				3A580D822A15381B00F9F246 /* ViewController.swift in Sources */,
 				3A2DEFFD2A153DA500A8179E /* ImageSliderNViewController.swift in Sources */,
+				3ACCAAC62A153EEF0040D67E /* ViewNController.swift in Sources */,
+				3ACCAAC42A153EAB0040D67E /* ImageSliderTableViewCell.swift in Sources */,
 				3A580D7E2A15381B00F9F246 /* AppDelegate.swift in Sources */,
 				3A580D802A15381B00F9F246 /* SceneDelegate.swift in Sources */,
 				3A580D962A153A5C00F9F246 /* InstagramViewController.swift in Sources */,
