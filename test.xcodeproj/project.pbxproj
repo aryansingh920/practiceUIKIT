@@ -13,6 +13,9 @@
 		3A580D852A15381B00F9F246 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A580D832A15381B00F9F246 /* Main.storyboard */; };
 		3A580D872A15381C00F9F246 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A580D862A15381C00F9F246 /* Assets.xcassets */; };
 		3A580D8A2A15381C00F9F246 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A580D882A15381C00F9F246 /* LaunchScreen.storyboard */; };
+		3A580D922A1538DD00F9F246 /* ImageSliderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A580D912A1538DD00F9F246 /* ImageSliderViewController.swift */; };
+		3A580D942A15392900F9F246 /* ImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A580D932A15392900F9F246 /* ImageCell.swift */; };
+		3A580D962A153A5C00F9F246 /* InstagramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A580D952A153A5C00F9F246 /* InstagramViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		3A580D862A15381C00F9F246 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A580D892A15381C00F9F246 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A580D8B2A15381C00F9F246 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A580D912A1538DD00F9F246 /* ImageSliderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSliderViewController.swift; sourceTree = "<group>"; };
+		3A580D932A15392900F9F246 /* ImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCell.swift; sourceTree = "<group>"; };
+		3A580D952A153A5C00F9F246 /* InstagramViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			children = (
 				3A580D7D2A15381B00F9F246 /* AppDelegate.swift */,
 				3A580D7F2A15381B00F9F246 /* SceneDelegate.swift */,
+				3A580D912A1538DD00F9F246 /* ImageSliderViewController.swift */,
+				3A580D932A15392900F9F246 /* ImageCell.swift */,
+				3A580D952A153A5C00F9F246 /* InstagramViewController.swift */,
 				3A580D812A15381B00F9F246 /* ViewController.swift */,
 				3A580D832A15381B00F9F246 /* Main.storyboard */,
 				3A580D862A15381C00F9F246 /* Assets.xcassets */,
@@ -141,6 +150,9 @@
 				3A580D822A15381B00F9F246 /* ViewController.swift in Sources */,
 				3A580D7E2A15381B00F9F246 /* AppDelegate.swift in Sources */,
 				3A580D802A15381B00F9F246 /* SceneDelegate.swift in Sources */,
+				3A580D962A153A5C00F9F246 /* InstagramViewController.swift in Sources */,
+				3A580D922A1538DD00F9F246 /* ImageSliderViewController.swift in Sources */,
+				3A580D942A15392900F9F246 /* ImageCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
